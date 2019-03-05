@@ -23,7 +23,7 @@ Following parameters can be changed:
 | ylim_value   | y-Limits for manual scaling in m         |      [0 15]     |
 
 ## Simulation Environment
-The simulation was designed and tested on Matlab 2018b on Windows and macOS.
+The simulation was designed and tested on Matlab 2018b on Windows 10 and macOS 10.14.3.
 
 ## Manual
 To run the simulation following steps must be performed:
